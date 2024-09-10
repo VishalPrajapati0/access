@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
+    "method-override": "^3.0.0",
+    "pg": "^8.12.0",
+    "uuid": "^10.0.0"
+  },
+  "name": "vishu",
+  "version": "1.0.0",
+  "description": "kem chho vishal bhai ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
